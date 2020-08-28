@@ -5,8 +5,9 @@ run npm install
 ```bash
 npm install
 ```
+```bash
 connect mongodb database
-
+```
 ![Screenshot (53)](https://user-images.githubusercontent.com/44703643/91536425-50b69100-e932-11ea-8ebb-10b1f8d8974e.png)
 ![Screenshot (54)](https://user-images.githubusercontent.com/44703643/91536435-5318eb00-e932-11ea-82c9-440de869b77f.png)
 ![Screenshot (55)](https://user-images.githubusercontent.com/44703643/91536442-53b18180-e932-11ea-94eb-3dbcc3e292d6.png)
