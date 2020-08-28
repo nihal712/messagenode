@@ -1,6 +1,7 @@
 # messagenode
+Social Media Website using Node.js and React.js
 
-## Installation
+### Installation
 run npm install
 ```bash
 npm install
